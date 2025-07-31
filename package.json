@@ -1,0 +1,13 @@
+{
+  "name": "image-to-pdf-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "pdf-lib": "^1.17.1"
+  }
+}
